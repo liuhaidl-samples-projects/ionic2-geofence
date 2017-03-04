@@ -49,9 +49,3 @@ ionic run ios
 
 ## Issues
  - sudo chown -R loginUser:group * //for example chown -R liuhaidl:staff * to resolve the emulator startup failed issue
-
-## License
-
-This software is released under the [MIT License](https://raw.githubusercontent.com/tsubik/ionic2-geofence/master/LICENSE).
-
-© 2016 Tomasz Subik. All rights reserved
