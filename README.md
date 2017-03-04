@@ -17,9 +17,9 @@ Use local npm packages
 npm install
 ```
 
-If you're using `ionic-cli` installed globally not locally you should install the latest beta version in order to run this project.
+Install cordova and ionic through npm
 ```
-npm install -g ionic@beta
+npm install -g cordova ionic
 ```
 
 For testing in the browser
