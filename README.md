@@ -48,7 +48,7 @@ ionic run ios
 - iOS
 
 ## Issues
- - chown -R loginUser:group * //for example chown -R liuhaidl:staff * to resolve the emulator startup failed issue
+ - sudo chown -R loginUser:group * //for example chown -R liuhaidl:staff * to resolve the emulator startup failed issue
 
 ## License
 
