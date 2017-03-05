@@ -5,11 +5,11 @@ Sample project using [cordova geofence plugin](https://github.com/cowbell/cordov
 ![ionic2-screen1](https://cloud.githubusercontent.com/assets/1286444/23096546/4d522902-f61f-11e6-8ed4-b7ddf5cbc62a.png)
 ![ionic2-screen2](https://cloud.githubusercontent.com/assets/1286444/23096550/5a38b406-f61f-11e6-878e-e4ca09dd60a2.png)
 
-## Download Project Code
-git clone 
-
-
 ## Installation
+Download project code
+```
+npm install
+```
 
 Use local npm packages
 
