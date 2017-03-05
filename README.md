@@ -8,7 +8,8 @@ Sample project using [cordova geofence plugin](https://github.com/cowbell/cordov
 ## Installation
 Download project code
 ```
-npm install
+git clone https://github.com/liuhaidl-samples-projects/ionic2-geofence.git
+cd ionic2-geofence
 ```
 
 Use local npm packages
@@ -32,14 +33,14 @@ For android
 
 ```
 ionic platform add android
-ionic run android
+ionic run android -l
 ```
 
 For iOS
 
 ```
 ionic platform add ios
-ionic run ios
+ionic run ios -l
 ```
 
 ## Platforms
